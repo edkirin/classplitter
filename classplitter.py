@@ -1,6 +1,5 @@
 import argparse
 import logging
-import logging
 import os
 import re
 from dataclasses import dataclass
